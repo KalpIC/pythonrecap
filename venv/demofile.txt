@@ -1,0 +1,5 @@
+demo text file
+demo text 
+python
+file handling
+this pc local disk user admin pycharmproject pythonrecap venv
